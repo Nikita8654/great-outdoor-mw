@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GreatOutdoorAddressManagementMicroService/great-outdoor-address-management-service.iml" filepath="$PROJECT_DIR$/GreatOutdoorAddressManagementMicroService/great-outdoor-address-management-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GreatOutdoorAdminReportMicroService/great-outdoor-admin-report-management-service.iml" filepath="$PROJECT_DIR$/GreatOutdoorAdminReportMicroService/great-outdoor-admin-report-management-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GreatOutdoorCartManagementMicroService/great-outdoor-cart-management-service.iml" filepath="$PROJECT_DIR$/GreatOutdoorCartManagementMicroService/great-outdoor-cart-management-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GreatOutdoorDiscoveryMicroService/great-outdoor-discovery-service.iml" filepath="$PROJECT_DIR$/GreatOutdoorDiscoveryMicroService/great-outdoor-discovery-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/great-outdoor-external-config-repo/great-outdoor-external-config-repo.iml" filepath="$PROJECT_DIR$/great-outdoor-external-config-repo/great-outdoor-external-config-repo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GreatOutdoorExternalConfigMicroService/great-outdoor-external-config-service.iml" filepath="$PROJECT_DIR$/GreatOutdoorExternalConfigMicroService/great-outdoor-external-config-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GreatOutdoorGatewayMicroService/great-outdoor-gateway-service.iml" filepath="$PROJECT_DIR$/GreatOutdoorGatewayMicroService/great-outdoor-gateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GreatOutdoorProductMicroService/great-outdoor-product-service.iml" filepath="$PROJECT_DIR$/GreatOutdoorProductMicroService/great-outdoor-product-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GreatOutdoorUserManagementMicroService/great-outdoor-user-management-service.iml" filepath="$PROJECT_DIR$/GreatOutdoorUserManagementMicroService/great-outdoor-user-management-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GreatOutdoorInventoryMicroService/great-outdoor-wishlist-management-service.iml" filepath="$PROJECT_DIR$/GreatOutdoorInventoryMicroService/great-outdoor-wishlist-management-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GreatOutdoorWishlistManagementMicroService/great-outdoor-wishlist-management-service (1).iml" filepath="$PROJECT_DIR$/GreatOutdoorWishlistManagementMicroService/great-outdoor-wishlist-management-service (1).iml" />
+    </modules>
+  </component>
+</project>

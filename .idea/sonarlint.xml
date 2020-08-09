@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SonarLintProjectSettings">
+    <option name="fileExclusions">
+      <list>
+        <option value="FILE:GreatOutdoorProductMicroService/src/test/java/com/cg/gops/GreatOutdoorProductMicroServiceApplicationTests.java" />
+        <option value="FILE:GreatOutdoorProductMicroService/.mvn/wrapper/MavenWrapperDownloader.java" />
+      </list>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/GreatOutdoorAddressManagementMicroService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GreatOutdoorAddressManagementMicroService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GreatOutdoorAdminReportMicroService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GreatOutdoorAdminReportMicroService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GreatOutdoorCartManagementMicroService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GreatOutdoorCartManagementMicroService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GreatOutdoorDiscoveryMicroService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GreatOutdoorDiscoveryMicroService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GreatOutdoorExternalConfigMicroService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GreatOutdoorExternalConfigMicroService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GreatOutdoorGatewayMicroService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GreatOutdoorGatewayMicroService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GreatOutdoorInventoryMicroService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GreatOutdoorInventoryMicroService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GreatOutdoorProductMicroService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GreatOutdoorProductMicroService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GreatOutdoorUserManagementMicroService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GreatOutdoorUserManagementMicroService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GreatOutdoorWishlistManagementMicroService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GreatOutdoorWishlistManagementMicroService/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

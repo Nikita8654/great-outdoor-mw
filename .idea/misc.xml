@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/GreatOutdoorAddressManagementMicroService/pom.xml" />
+        <option value="$PROJECT_DIR$/GreatOutdoorAdminReportMicroService/pom.xml" />
+        <option value="$PROJECT_DIR$/GreatOutdoorCartManagementMicroService/pom.xml" />
+        <option value="$PROJECT_DIR$/GreatOutdoorDiscoveryMicroService/pom.xml" />
+        <option value="$PROJECT_DIR$/GreatOutdoorExternalConfigMicroService/pom.xml" />
+        <option value="$PROJECT_DIR$/GreatOutdoorGatewayMicroService/pom.xml" />
+        <option value="$PROJECT_DIR$/GreatOutdoorInventoryMicroService/pom.xml" />
+        <option value="$PROJECT_DIR$/GreatOutdoorProductMicroService/pom.xml" />
+        <option value="$PROJECT_DIR$/GreatOutdoorUserManagementMicroService/pom.xml" />
+        <option value="$PROJECT_DIR$/GreatOutdoorWishlistManagementMicroService/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" project-jdk-name="13" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

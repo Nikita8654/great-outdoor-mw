@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="051bdc83-8eb9-42af-a4fc-c127e9122329" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="capgemini@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="capgemini@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="capgemini@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="capgemini: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1btoqz4Cyg6z8YMmnOoeJ57KHT0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../great-outdoor-security" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GreatOutdoorProductMicroServiceApplication">
+    <configuration name="GreatOutdoorProductMicroServiceApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="great-outdoor-product-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cg.gops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cg.gops" />
+      <option name="MAIN_CLASS_NAME" value="com.cg.gops.GreatOutdoorProductMicroServiceApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreatOutdoorProductMicroServiceApplicationTests.deleteProductTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="great-outdoor-product-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cg.gops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cg.gops" />
+      <option name="MAIN_CLASS_NAME" value="com.cg.gops.GreatOutdoorProductMicroServiceApplicationTests" />
+      <option name="METHOD_NAME" value="deleteProductTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreatOutdoorProductMicroServiceApplicationTests.updateProductTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="great-outdoor-product-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cg.gops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cg.gops" />
+      <option name="MAIN_CLASS_NAME" value="com.cg.gops.GreatOutdoorProductMicroServiceApplicationTests" />
+      <option name="METHOD_NAME" value="updateProductTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreatOutdoorAddressManagementMicroServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="great-outdoor-address-management-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cg.goams.GreatOutdoorAddressManagementMicroServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreatOutdoorAdminReportMicroServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="great-outdoor-admin-report-management-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cg.goarm.GreatOutdoorAdminReportMicroServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreatOutdoorCartManagementMicroServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="great-outdoor-cart-management-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cg.gocms.GreatOutdoorCartManagementMicroServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreatOutdoorDiscoveryMicroServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="great-outdoor-discovery-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cg.godm.GreatOutdoorDiscoveryMicroServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreatOutdoorExternalConfigMicroServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="great-outdoor-external-config-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cg.goexs.GreatOutdoorExternalConfigMicroServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreatOutdoorGatewayMicroServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="great-outdoor-gateway-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cg.gogm.GreatOutdoorGatewayMicroServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreatOutdoorInventoryMicroServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="great-outdoor-wishlist-management-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cg.goim.GreatOutdoorInventoryMicroServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreatOutdoorProductMicroServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="great-outdoor-product-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cg.gops.GreatOutdoorProductMicroServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreatOutdoorUserManagementMicroServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="great-outdoor-user-management-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cg.goum.GreatOutdoorUserManagementMicroServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GreatOutdoorWishlistManagementMicroServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="great-outdoor-wishlist-management-service (1)" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cg.gowms.GreatOutdoorWishlistManagementMicroServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GreatOutdoorProductMicroServiceApplicationTests" />
+        <item itemvalue="JUnit.GreatOutdoorProductMicroServiceApplicationTests.updateProductTest" />
+        <item itemvalue="JUnit.GreatOutdoorProductMicroServiceApplicationTests.deleteProductTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.23675497" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="051bdc83-8eb9-42af-a4fc-c127e9122329" name="Default Changelist" comment="" />
+      <created>1589460945259</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589460945259</updated>
+      <workItem from="1589460947540" duration="7416000" />
+      <workItem from="1589473418185" duration="7113000" />
+      <workItem from="1589510239638" duration="2332000" />
+      <workItem from="1589513929342" duration="1014000" />
+      <workItem from="1589518769451" duration="1926000" />
+      <workItem from="1589530513579" duration="1177000" />
+      <workItem from="1589644600158" duration="1616000" />
+      <workItem from="1589649972791" duration="338000" />
+      <workItem from="1589657702938" duration="847000" />
+      <workItem from="1589697731341" duration="12560000" />
+      <workItem from="1589729403223" duration="1778000" />
+      <workItem from="1589737939314" duration="155000" />
+      <workItem from="1589785423198" duration="4029000" />
+      <workItem from="1589818528624" duration="4338000" />
+      <workItem from="1589823367555" duration="3089000" />
+      <workItem from="1589873529758" duration="2552000" />
+      <workItem from="1589884472848" duration="3653000" />
+      <workItem from="1589902351002" duration="4980000" />
+      <workItem from="1589958425578" duration="22000" />
+      <workItem from="1589974471151" duration="668000" />
+      <workItem from="1589980423069" duration="5507000" />
+      <workItem from="1590030844992" duration="5627000" />
+      <workItem from="1590082912523" duration="337000" />
+      <workItem from="1590867821732" duration="312000" />
+      <workItem from="1591978807787" duration="3427000" />
+      <workItem from="1592068751087" duration="1221000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="244" y="8" key="#All_in_great-outdoor-product-service" timestamp="1589474314282">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="244" y="8" key="#All_in_great-outdoor-product-service/0.0.1280.680@0.0.1280.680" timestamp="1589474314282" />
+    <state x="233" y="0" key="#Assign_Data_Sources" timestamp="1589786844515">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Assign_Data_Sources/0.0.1280.680@0.0.1280.680" timestamp="1589786844515" />
+    <state x="233" y="2" key="#Project_Structure" timestamp="1589460955467">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="2" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1589460955467" />
+    <state x="233" y="2" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589462437023">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="2" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1589462437023" />
+    <state x="421" y="37" key="FileChooserDialogImpl" timestamp="1589980651197">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="37" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1589980651197" />
+    <state width="921" height="276" key="GridCell.Tab.0.bottom" timestamp="1590042617735">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="921" height="276" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590042617735" />
+    <state width="921" height="276" key="GridCell.Tab.0.center" timestamp="1590042617735">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="921" height="276" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1590042617735" />
+    <state width="921" height="276" key="GridCell.Tab.0.left" timestamp="1590042617735">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="921" height="276" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1590042617735" />
+    <state width="921" height="276" key="GridCell.Tab.0.right" timestamp="1590042617735">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="921" height="276" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1590042617735" />
+    <state width="921" height="276" key="GridCell.Tab.1.bottom" timestamp="1590042617735">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="921" height="276" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590042617735" />
+    <state width="921" height="276" key="GridCell.Tab.1.center" timestamp="1590042617735">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="921" height="276" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1590042617735" />
+    <state width="921" height="276" key="GridCell.Tab.1.left" timestamp="1590042617735">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="921" height="276" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1590042617735" />
+    <state width="921" height="276" key="GridCell.Tab.1.right" timestamp="1590042617735">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="921" height="276" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1590042617735" />
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog" timestamp="1589697961840">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="171" y="0" key="Maven.ArtifactSearchDialog/0.0.1280.680@0.0.1280.680" timestamp="1589697961840" />
+    <state x="315" y="45" width="788" height="590" key="NewModule_or_Project.wizard" timestamp="1589462070378">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="315" y="45" width="788" height="590" key="NewModule_or_Project.wizard/0.0.1280.680@0.0.1280.680" timestamp="1589462070378" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1590033457713">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1590033457713" />
+    <state x="475" y="230" width="331" height="234" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1589819570450">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="475" y="230" width="331" height="234" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1280.680@0.0.1280.680" timestamp="1589819570450" />
+    <state x="91" y="42" key="new project wizard" timestamp="1589706853708">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="42" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1589706853708" />
+    <state x="99" y="0" width="1177" height="676" key="search.everywhere.popup" timestamp="1590042615297">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="99" y="0" width="1177" height="676" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1590042615297" />
+  </component>
+</project>

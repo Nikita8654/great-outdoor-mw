@@ -1,0 +1,13 @@
+
+A
+java:S1168C"+Return an empty collection instead of null.(¥¹ï
+A
+java:S1168H"+Return an empty collection instead of null.(¥¹ï
+I
+java:S1144"3Remove this unused private "getAllProducts" method.(¥ŒÿÙ
+I
+java:S1611;"3Remove the parentheses around the "order" parameter(Úàü
+B
+java:S1612;",Replace this lambda with a method reference.(Úàü
+A
+java:S1168M"+Return an empty collection instead of null.(¥¹ï

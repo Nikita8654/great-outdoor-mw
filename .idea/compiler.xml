@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="great-outdoor-discovery-service" />
+        <module name="great-outdoor-admin-report-management-service" />
+        <module name="great-outdoor-wishlist-management-service" />
+        <module name="great-outdoor-product-service" />
+        <module name="great-outdoor-gateway-service" />
+        <module name="great-outdoor-cart-management-service" />
+        <module name="great-outdoor-user-management-service" />
+        <module name="great-outdoor-address-management-service" />
+        <module name="great-outdoor-wishlist-management-service (1)" />
+        <module name="great-outdoor-external-config-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="great-outdoor-address-management-service" target="1.8" />
+      <module name="great-outdoor-admin-report-management-service" target="1.8" />
+      <module name="great-outdoor-cart-management-service" target="1.8" />
+      <module name="great-outdoor-discovery-service" target="1.8" />
+      <module name="great-outdoor-external-config-service" target="1.8" />
+      <module name="great-outdoor-gateway-service" target="1.8" />
+      <module name="great-outdoor-product-service" target="1.8" />
+      <module name="great-outdoor-user-management-service" target="1.8" />
+      <module name="great-outdoor-wishlist-management-service" target="1.8" />
+      <module name="great-outdoor-wishlist-management-service (1)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="great-outdoor-address-management-service" options="-parameters" />
+      <module name="great-outdoor-admin-report-management-service" options="-parameters" />
+      <module name="great-outdoor-cart-management-service" options="-parameters" />
+      <module name="great-outdoor-discovery-service" options="-parameters" />
+      <module name="great-outdoor-external-config-service" options="-parameters" />
+      <module name="great-outdoor-gateway-service" options="-parameters" />
+      <module name="great-outdoor-product-service" options="-parameters" />
+      <module name="great-outdoor-user-management-service" options="-parameters" />
+      <module name="great-outdoor-wishlist-management-service" options="-parameters" />
+      <module name="great-outdoor-wishlist-management-service (1)" options="-parameters" />
+    </option>
+  </component>
+</project>
